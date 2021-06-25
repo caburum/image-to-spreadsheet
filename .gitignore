@@ -1,0 +1,4 @@
+output.xlsx
+
+# Dependency directory
+node_modules

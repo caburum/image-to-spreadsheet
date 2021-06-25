@@ -1,0 +1,26 @@
+{
+  "name": "image-to-spreadsheet",
+  "version": "1.0.0",
+  "description": "Converts an image into red, green, and blue colored cells in a spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caburum/image-to-spreadsheet.git"
+  },
+  "keywords": [
+    "spreadsheet"
+  ],
+  "author": "Calum Dingwall (https://github.com/caburum)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caburum/image-to-spreadsheet/issues"
+  },
+  "homepage": "https://github.com/caburum/image-to-spreadsheet#readme",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "jimp": "^0.16.1"
+  }
+}
